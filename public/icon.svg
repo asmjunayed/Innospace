@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0f172a"/>
+  <!-- Subtle accent circle -->
+  <circle cx="256" cy="230" r="140" fill="#047857" fill-opacity="0.2"/>
+  <!-- Map Pin Body -->
+  <path d="M256 100C195.249 100 146 149.249 146 210C146 292.5 256 412 256 412C256 412 366 292.5 366 210C366 149.249 316.751 100 256 100Z" fill="#1e293b" stroke="#10b981" stroke-width="12" stroke-linejoin="round"/>
+  <!-- Inner Verification Shield & Check -->
+  <circle cx="256" cy="210" r="58" fill="#0f172a" stroke="#34d399" stroke-width="8"/>
+  <path d="M232 210L248 226L282 192" stroke="#10b981" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Base Ground Ping Waves -->
+  <ellipse cx="256" cy="420" rx="90" ry="18" fill="#10b981" fill-opacity="0.3"/>
+  <ellipse cx="256" cy="420" rx="46" ry="10" fill="#10b981" fill-opacity="0.6"/>
+</svg>
